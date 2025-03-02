@@ -1,5 +1,5 @@
-# rhyno-ev-
-Rhyno-EV
+# Rhyno-ev-
+
 Project Overview
 Welcome to the frontend repository for Rhyno-EV, developed for our client Rhyno-EV. This project aims to [briefly describe the purpose or functionality of the project]. It is built using modern web development technologies to provide a robust and user-friendly interface.
 
