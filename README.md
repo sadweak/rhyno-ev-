@@ -10,14 +10,23 @@ Developer
 2.Parth Nath Chauhan
 
 Table of Contents
+
 Technologies Used
+
 Installation
+
 Project Structure
+
 Usage
+
 Contributing
+
 License
+
 Contact
+
 Technologies Used
+
 This project leverages the following technologies:
 
 HTML5: For structuring the content.
@@ -29,6 +38,7 @@ Webpack/Babel: For module bundling and transpiling.
 Axios/Fetch API: For making HTTP requests to the backend.
 SASS/SCSS: For enhanced styling capabilities.
 Installation
+
 Follow these steps to set up the project locally:
 
 Clone the repository:
